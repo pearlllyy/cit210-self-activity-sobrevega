@@ -5,7 +5,6 @@ A simple PHP web app that computes a student's average from their quiz, activity
 ## Files
 
 - `index.php` - form, validation, and result
-- `index.html` - main webpage
 - `functions.php` - `computeAverage()` and `getRemark()`
 - `assets/bootstrap.min.css` - Bootstrap styles
 
